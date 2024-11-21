@@ -1,0 +1,3 @@
+User -agent:*
+Disallow:
+sitemap:https://https://htmlpreview.github.io/kristinadobrijevic/ProdavnicaSuplemenata/sitemap.xlm
