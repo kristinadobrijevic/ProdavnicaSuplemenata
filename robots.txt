@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow:/slike/
 
 Sitemap: https://github.com/kristinadobrijevic/ProdavnicaSuplemenata/blob/main/sitemap.xml
